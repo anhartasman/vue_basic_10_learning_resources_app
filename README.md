@@ -1,10 +1,4 @@
-# A.Setup & First Step
+# B.Memberikan style dan menambah komponen
 
-1) Jalankan npm install
-2) Jalankan npm run serve
-3) buka linknya
-
-Q) Ada Error: Syntax Error: Error: No ESLint configuration found in
-A)
-npm install eslint -g -D
-eslint --init
+1) Membuat file StoredResources.vue
+2) Memberikan style ke file App,LearningResource dan StoredResources
