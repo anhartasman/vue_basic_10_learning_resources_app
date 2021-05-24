@@ -1,4 +1,5 @@
 <template>
+    <!-- Elemen teratas atau rootnya adalah button sehingga memiliki listeners on click -->
     <button :type="type" :class="mode">
         <slot></slot>
     </button>
