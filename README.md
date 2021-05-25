@@ -1,5 +1,3 @@
-# J. Deleting Items
+# K. Teleport Dialog
 
-1) Membuat function removeResource di TheResources
-2) Provide dan inject function removeResource dari TheResources ke AddResource
-3) Menggunakan function removeResource di AddResource
+1) Membungkus BaseDialog dengan teleport to="body"
